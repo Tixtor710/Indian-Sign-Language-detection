@@ -12,7 +12,7 @@ import numpy as np
 import os
 
 # Use local path to ONNX model
-onnx_model_path = os.path.join(os.getcwd(), "C:\ISL\isl_cnn_model.onnx")
+onnx_model_path = os.path.join(os.getcwd(), "C:\ISL\isl_cnn_model .onnx")
 if not os.path.exists(onnx_model_path):
     print("ONNX model not found. Please export your trained model to ONNX format.")
     exit(1)
