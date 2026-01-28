@@ -83,7 +83,7 @@ Your webcam will open. Place your hand inside the ROI box and start signing!
 
 **Robin Robert**  
 Final Year AIML Honors, Manipal University  
-🎙️ Host of *The Voice* Podcast  
+  
 👨‍💻 AI Developer | Cinephile | Curious Mind  
 
 ---
